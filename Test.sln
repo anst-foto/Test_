@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "others", "others", "{AC7FE1
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.ConsoleApp", "Test.ConsoleApp\Test.ConsoleApp.csproj", "{DD7E688A-5905-4897-8392-862F486347DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,5 +21,9 @@ Global
 		{A7202A07-FEDD-4E55-BDA5-B40C56065E1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7202A07-FEDD-4E55-BDA5-B40C56065E1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7202A07-FEDD-4E55-BDA5-B40C56065E1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD7E688A-5905-4897-8392-862F486347DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD7E688A-5905-4897-8392-862F486347DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD7E688A-5905-4897-8392-862F486347DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD7E688A-5905-4897-8392-862F486347DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
